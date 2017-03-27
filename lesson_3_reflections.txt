@@ -1,0 +1,3 @@
+What are the differences between http and ssh protocols in the case of git.
+ssh-key need to be added to github ???
+Not requiring username and password while committing codes ??
